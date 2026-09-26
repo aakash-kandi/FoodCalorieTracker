@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FoodCalorieTracker.API/FoodCalorieTracker.API.csproj" />
+  <Project Path="FoodCalorieTracker.Application/FoodCalorieTracker.Application.csproj" />
+  <Project Path="FoodCalorieTracker.Domain/FoodCalorieTracker.Domain.csproj" />
+  <Project Path="FoodCalorieTracker.Infrastructure/FoodCalorieTracker.Infrastructure.csproj" />
+</Solution>
